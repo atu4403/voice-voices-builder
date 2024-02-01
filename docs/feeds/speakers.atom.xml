@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>VOICE-VOICES - speakers</title><link href="https://atu4403.github.io/voice-voices-builder/" rel="alternate"></link><link href="https://atu4403.github.io/voice-voices-builder/feeds/speakers.atom.xml" rel="self"></link><id>https://atu4403.github.io/voice-voices-builder/</id><updated>2023-10-14T08:10:00+09:00</updated><entry><title>四国めたん</title><link href="https://atu4403.github.io/voice-voices-builder/si-guo-metan.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/si-guo-metan.html</id><summary type="html">&lt;p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>VOICE-VOICES - speakers</title><link href="https://atu4403.github.io/voice-voices-builder/" rel="alternate"></link><link href="https://atu4403.github.io/voice-voices-builder/feeds/speakers.atom.xml" rel="self"></link><id>https://atu4403.github.io/voice-voices-builder/</id><updated>2024-02-01T17:28:00+09:00</updated><entry><title>四国めたん</title><link href="https://atu4403.github.io/voice-voices-builder/si-guo-metan.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/si-guo-metan.html</id><summary type="html">&lt;p&gt;
   モーフィング: SELF_ONLY
 &lt;/p&gt;
 
@@ -611,7 +611,7 @@
 &lt;a href="https://zunko.jp/con_ongen_kiyaku.html" target="_blank"&gt;https://zunko.jp/con_ongen_kiyaku.html&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>ずんだもん</title><link href="https://atu4403.github.io/voice-voices-builder/zundamon.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/zundamon.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>ずんだもん</title><link href="https://atu4403.github.io/voice-voices-builder/zundamon.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/zundamon.html</id><summary type="html">&lt;p&gt;
   モーフィング: SELF_ONLY
 &lt;/p&gt;
 
@@ -911,9 +911,20 @@
     &lt;/div&gt;
   &lt;/div&gt;
 
-&lt;/div&gt;
-
-&lt;h2&gt;利用ポ …&lt;/h2&gt;</summary><content type="html">&lt;p&gt;
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_75.webp"
+            alt="ヘロヘロ"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              ヘロヘ …&lt;/h5&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;
   モーフィング: SELF_ONLY
 &lt;/p&gt;
 
@@ -1203,6 +1214,102 @@
                   controls
                   class="w-100"
                   src="https://atu4403.github.io/voice-voices-builder/audio/voice_38_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_75.webp"
+            alt="ヘロヘロ"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              ヘロヘロ (ID: 75)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_75_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_75_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_75_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_76.webp"
+            alt="なみだめ"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              なみだめ (ID: 76)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_76_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_76_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_76_3.mp3"
                 &gt;&lt;/audio&gt;
               &lt;/li&gt;
 
@@ -1223,7 +1330,7 @@
 &lt;a href="https://zunko.jp/con_ongen_kiyaku.html" target="_blank"&gt;https://zunko.jp/con_ongen_kiyaku.html&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>春日部つむぎ</title><link href="https://atu4403.github.io/voice-voices-builder/chun-ri-bu-tsumugi.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/chun-ri-bu-tsumugi.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>春日部つむぎ</title><link href="https://atu4403.github.io/voice-voices-builder/chun-ri-bu-tsumugi.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/chun-ri-bu-tsumugi.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -1357,7 +1464,7 @@
 &lt;a href="https://tsumugi-official.studio.site/rule" target="_blank"&gt;https://tsumugi-official.studio.site/rule&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>雨晴はう</title><link href="https://atu4403.github.io/voice-voices-builder/yu-qing-hau.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/yu-qing-hau.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>雨晴はう</title><link href="https://atu4403.github.io/voice-voices-builder/yu-qing-hau.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/yu-qing-hau.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -1491,7 +1598,7 @@
 &lt;a href="https://amehau.com/?page_id=225" target="_blank"&gt;https://amehau.com/?page_id=225&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>波音リツ</title><link href="https://atu4403.github.io/voice-voices-builder/bo-yin-ritsu.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/bo-yin-ritsu.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>波音リツ</title><link href="https://atu4403.github.io/voice-voices-builder/bo-yin-ritsu.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/bo-yin-ritsu.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -1720,7 +1827,7 @@
 &lt;a href="http://canon-voice.com/kiyaku.html" target="_blank"&gt;http://canon-voice.com/kiyaku.html&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>玄野武宏</title><link href="https://atu4403.github.io/voice-voices-builder/xuan-ye-wu-hong.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/xuan-ye-wu-hong.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>玄野武宏</title><link href="https://atu4403.github.io/voice-voices-builder/xuan-ye-wu-hong.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/xuan-ye-wu-hong.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -2141,7 +2248,7 @@
 &lt;a href="https://virvoxproject.wixsite.com/official/voicevoxの利用規約" target="_blank"&gt;https://virvoxproject.wixsite.com/official/voicevoxの利用規約&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>白上虎太郎</title><link href="https://atu4403.github.io/voice-voices-builder/bai-shang-hu-tai-lang.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/bai-shang-hu-tai-lang.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>白上虎太郎</title><link href="https://atu4403.github.io/voice-voices-builder/bai-shang-hu-tai-lang.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/bai-shang-hu-tai-lang.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -2658,7 +2765,7 @@
 &lt;a href="https://virvoxproject.wixsite.com/official/voicevoxの利用規約" target="_blank"&gt;https://virvoxproject.wixsite.com/official/voicevoxの利用規約&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>青山龍星</title><link href="https://atu4403.github.io/voice-voices-builder/qing-shan-long-xing.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/qing-shan-long-xing.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>青山龍星</title><link href="https://atu4403.github.io/voice-voices-builder/qing-shan-long-xing.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/qing-shan-long-xing.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -2718,11 +2825,297 @@
     &lt;/div&gt;
   &lt;/div&gt;
 
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_81.webp"
+            alt="熱血"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              熱血 (ID: 81)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_81_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_81_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_81_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_82.webp"
+            alt="不機嫌"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              不機嫌 (ID: 82)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_82_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_82_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_82_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_83.webp"
+            alt="喜び"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              喜び (ID: 83)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_83_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_83_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_83_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_84.webp"
+            alt="しっとり"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              しっとり (ID: 84)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_84_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_84_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_84_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_85.webp"
+            alt="かなしみ"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              かなしみ (ID: 85)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_85_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_85_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_85_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_86.webp"
+            alt="囁き"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              囁き (ID: 86)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_86_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_86_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_86_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
 &lt;/div&gt;
 
-&lt;h2&gt;利用ポリシー&lt;/h2&gt;
-&lt;p&gt;個人が青山龍星の音声ライブラリを用いて生成した音声は、
-「VOICEVOX …&lt;/p&gt;</summary><content type="html">&lt;p&gt;
+&lt;h2&gt;利用ポリ …&lt;/h2&gt;</summary><content type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -2772,6 +3165,294 @@
                   controls
                   class="w-100"
                   src="https://atu4403.github.io/voice-voices-builder/audio/voice_13_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_81.webp"
+            alt="熱血"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              熱血 (ID: 81)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_81_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_81_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_81_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_82.webp"
+            alt="不機嫌"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              不機嫌 (ID: 82)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_82_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_82_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_82_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_83.webp"
+            alt="喜び"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              喜び (ID: 83)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_83_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_83_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_83_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_84.webp"
+            alt="しっとり"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              しっとり (ID: 84)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_84_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_84_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_84_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_85.webp"
+            alt="かなしみ"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              かなしみ (ID: 85)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_85_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_85_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_85_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_86.webp"
+            alt="囁き"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              囁き (ID: 86)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_86_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_86_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_86_3.mp3"
                 &gt;&lt;/audio&gt;
               &lt;/li&gt;
 
@@ -2793,7 +3474,7 @@
 &lt;a href="https://virvoxproject.wixsite.com/official/voicevoxの利用規約" target="_blank"&gt;https://virvoxproject.wixsite.com/official/voicevoxの利用規約&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>冥鳴ひまり</title><link href="https://atu4403.github.io/voice-voices-builder/ming-ming-himari.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/ming-ming-himari.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>冥鳴ひまり</title><link href="https://atu4403.github.io/voice-voices-builder/ming-ming-himari.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/ming-ming-himari.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -2927,7 +3608,7 @@
 &lt;a href="https://meimeihimari.wixsite.com/himari/terms-of-use" target="_blank"&gt;https://meimeihimari.wixsite.com/himari/terms-of-use&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>九州そら</title><link href="https://atu4403.github.io/voice-voices-builder/jiu-zhou-sora.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/jiu-zhou-sora.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>九州そら</title><link href="https://atu4403.github.io/voice-voices-builder/jiu-zhou-sora.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/jiu-zhou-sora.html</id><summary type="html">&lt;p&gt;
   モーフィング: SELF_ONLY
 &lt;/p&gt;
 
@@ -3444,7 +4125,7 @@
 &lt;a href="https://zunko.jp/con_ongen_kiyaku.html" target="_blank"&gt;https://zunko.jp/con_ongen_kiyaku.html&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>もち子さん</title><link href="https://atu4403.github.io/voice-voices-builder/mochizi-san.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/mochizi-san.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>もち子さん</title><link href="https://atu4403.github.io/voice-voices-builder/mochizi-san.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/mochizi-san.html</id><summary type="html">&lt;p&gt;
   モーフィング: SELF_ONLY
 &lt;/p&gt;
 
@@ -3552,10 +4233,201 @@
     &lt;/div&gt;
   &lt;/div&gt;
 
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_77.webp"
+            alt="泣き"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              泣き (ID: 77)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_77_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_77_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_77_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_78.webp"
+            alt="怒り"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              怒り (ID: 78)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_78_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_78_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_78_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_79.webp"
+            alt="喜び"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              喜び (ID: 79)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_79_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_79_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_79_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_80.webp"
+            alt="のんびり"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              のんびり (ID: 80)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_80_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_80_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_80_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
 &lt;/div&gt;
 
-&lt;h2&gt;利用ポリシー&lt;/h2&gt;
-&lt;p&gt;もち子さんの音声ライブラリを用いて生 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;
+&lt;h2&gt;利用ポリシー …&lt;/h2&gt;</summary><content type="html">&lt;p&gt;
   モーフィング: SELF_ONLY
 &lt;/p&gt;
 
@@ -3663,18 +4535,211 @@
     &lt;/div&gt;
   &lt;/div&gt;
 
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_77.webp"
+            alt="泣き"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              泣き (ID: 77)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_77_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_77_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_77_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_78.webp"
+            alt="怒り"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              怒り (ID: 78)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_78_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_78_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_78_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_79.webp"
+            alt="喜び"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              喜び (ID: 79)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_79_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_79_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_79_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="col-sm-6 mb-4"&gt;
+    &lt;div class="card" style="max-width: 540px"&gt;
+      &lt;div class="row g-0"&gt;
+        &lt;div class="col-md-4"&gt;
+          &lt;img
+            src="https://atu4403.github.io/voice-voices-builder/images/style_icon_80.webp"
+            alt="のんびり"
+            class="img-fluid"
+          /&gt;
+        &lt;/div&gt;
+        &lt;div class="col-md-8"&gt;
+          &lt;div class="card-body"&gt;
+            &lt;h5 class="card-title"&gt;
+              のんびり (ID: 80)
+            &lt;/h5&gt;
+            &lt;ul class="list-unstyled"&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_80_1.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_80_2.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+              &lt;li&gt;
+                &lt;audio
+                  controls
+                  class="w-100"
+                  src="https://atu4403.github.io/voice-voices-builder/audio/voice_80_3.mp3"
+                &gt;&lt;/audio&gt;
+              &lt;/li&gt;
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
 &lt;/div&gt;
 
 &lt;h2&gt;利用ポリシー&lt;/h2&gt;
-&lt;p&gt;もち子さんの音声ライブラリを用いて生成した音声は、
+&lt;p&gt;個人がもち子さんの音声ライブラリを用いて生成した音声は、
 「VOICEVOX:もち子(cv 明日葉よもぎ)」とクレジットを記載すれば、
-音声作品・音声素材・ゲーム作品を除いて商用・非商用で利用可能です。
+音声作品・音声素材・ゲーム作品等を除いて商用・非商用で利用可能です。  
+ただし企業が携わる形で利用する場合は、「[もちぞら模型店](&lt;a href="https://vtubermochio.wixsite.com/mochizora/contact)」に対し事前確認を取る必要があります。" target="_blank"&gt;https://vtubermochio.wixsite.com/mochizora/contact)」に対し事前確認を取る必要があります。&lt;/a&gt;
 
 利用規約の詳細は以下をご確認ください。  
 &lt;a href="https://vtubermochio.wixsite.com/mochizora/利用規約" target="_blank"&gt;https://vtubermochio.wixsite.com/mochizora/利用規約&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>剣崎雌雄</title><link href="https://atu4403.github.io/voice-voices-builder/jian-qi-ci-xiong.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/jian-qi-ci-xiong.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>剣崎雌雄</title><link href="https://atu4403.github.io/voice-voices-builder/jian-qi-ci-xiong.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/jian-qi-ci-xiong.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -3808,7 +4873,7 @@
 &lt;a href="https://frontier.creatia.cc/fanclubs/413/posts/4507" target="_blank"&gt;https://frontier.creatia.cc/fanclubs/413/posts/4507&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>WhiteCUL</title><link href="https://atu4403.github.io/voice-voices-builder/whitecul.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/whitecul.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>WhiteCUL</title><link href="https://atu4403.github.io/voice-voices-builder/whitecul.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/whitecul.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -4230,7 +5295,7 @@
 &lt;a href="https://www.whitecul.com/guideline" target="_blank"&gt;https://www.whitecul.com/guideline&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>後鬼</title><link href="https://atu4403.github.io/voice-voices-builder/hou-gui.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/hou-gui.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>後鬼</title><link href="https://atu4403.github.io/voice-voices-builder/hou-gui.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/hou-gui.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -4460,7 +5525,7 @@
 &lt;a href="https://ついなちゃん.com/voicevox_terms/" target="_blank"&gt;https://ついなちゃん.com/voicevox_terms/&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>No.7</title><link href="https://atu4403.github.io/voice-voices-builder/no7.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/no7.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>No.7</title><link href="https://atu4403.github.io/voice-voices-builder/no7.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/no7.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -4787,7 +5852,7 @@
 &lt;a href="https://voiceseven.com/#j0200" target="_blank"&gt;https://voiceseven.com/#j0200&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>ちび式じい</title><link href="https://atu4403.github.io/voice-voices-builder/chibishi-zii.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/chibishi-zii.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>ちび式じい</title><link href="https://atu4403.github.io/voice-voices-builder/chibishi-zii.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/chibishi-zii.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -4921,7 +5986,7 @@
 &lt;a href="https://docs.google.com/presentation/d/1AcD8zXkfzKFf2ertHwWRwJuQXjNnijMxhz7AJzEkaI4" target="_blank"&gt;https://docs.google.com/presentation/d/1AcD8zXkfzKFf2ertHwWRwJuQXjNnijMxhz7AJzEkaI4&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>櫻歌ミコ</title><link href="https://atu4403.github.io/voice-voices-builder/ying-ge-miko.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/ying-ge-miko.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>櫻歌ミコ</title><link href="https://atu4403.github.io/voice-voices-builder/ying-ge-miko.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/ying-ge-miko.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -5246,7 +6311,7 @@
 &lt;a href="https://voicevox35miko.studio.site/rule" target="_blank"&gt;https://voicevox35miko.studio.site/rule&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>小夜/SAYO</title><link href="https://atu4403.github.io/voice-voices-builder/xiao-ye-sayo.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/xiao-ye-sayo.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>小夜/SAYO</title><link href="https://atu4403.github.io/voice-voices-builder/xiao-ye-sayo.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/xiao-ye-sayo.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -5380,7 +6445,7 @@
 &lt;a href="https://316soramegu.wixsite.com/sayo-official/guideline" target="_blank"&gt;https://316soramegu.wixsite.com/sayo-official/guideline&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>ナースロボ＿タイプＴ</title><link href="https://atu4403.github.io/voice-voices-builder/nasurobo_taiput.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/nasurobo_taiput.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>ナースロボ＿タイプＴ</title><link href="https://atu4403.github.io/voice-voices-builder/nasurobo_taiput.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/nasurobo_taiput.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -5802,7 +6867,7 @@
 &lt;a href="https://www.krnr.top/rules" target="_blank"&gt;https://www.krnr.top/rules&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>†聖騎士 紅桜†</title><link href="https://atu4403.github.io/voice-voices-builder/sheng-qi-shi-hong-ying.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/sheng-qi-shi-hong-ying.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>†聖騎士 紅桜†</title><link href="https://atu4403.github.io/voice-voices-builder/sheng-qi-shi-hong-ying.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/sheng-qi-shi-hong-ying.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -5936,7 +7001,7 @@
 &lt;a href="https://commons.nicovideo.jp/material/nc296132" target="_blank"&gt;https://commons.nicovideo.jp/material/nc296132&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>雀松朱司</title><link href="https://atu4403.github.io/voice-voices-builder/que-song-zhu-si.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/que-song-zhu-si.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>雀松朱司</title><link href="https://atu4403.github.io/voice-voices-builder/que-song-zhu-si.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/que-song-zhu-si.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -6070,7 +7135,7 @@
 &lt;a href="https://virvoxproject.wixsite.com/official/voicevoxの利用規約" target="_blank"&gt;https://virvoxproject.wixsite.com/official/voicevoxの利用規約&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>麒ヶ島宗麟</title><link href="https://atu4403.github.io/voice-voices-builder/qi-kedao-zong-lin.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/qi-kedao-zong-lin.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>麒ヶ島宗麟</title><link href="https://atu4403.github.io/voice-voices-builder/qi-kedao-zong-lin.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/qi-kedao-zong-lin.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -6204,7 +7269,7 @@
 &lt;a href="https://virvoxproject.wixsite.com/official/voicevoxの利用規約" target="_blank"&gt;https://virvoxproject.wixsite.com/official/voicevoxの利用規約&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>春歌ナナ</title><link href="https://atu4403.github.io/voice-voices-builder/chun-ge-nana.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/chun-ge-nana.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>春歌ナナ</title><link href="https://atu4403.github.io/voice-voices-builder/chun-ge-nana.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/chun-ge-nana.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -6338,7 +7403,7 @@
 &lt;a href="https://nanahira.jp/haruka_nana/guideline.html" target="_blank"&gt;https://nanahira.jp/haruka_nana/guideline.html&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>猫使アル</title><link href="https://atu4403.github.io/voice-voices-builder/mao-shi-aru.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/mao-shi-aru.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>猫使アル</title><link href="https://atu4403.github.io/voice-voices-builder/mao-shi-aru.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/mao-shi-aru.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -6663,7 +7728,7 @@
 &lt;a href="https://nekotukarb.wixsite.com/nekonohako/利用規約" target="_blank"&gt;https://nekotukarb.wixsite.com/nekonohako/利用規約&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>猫使ビィ</title><link href="https://atu4403.github.io/voice-voices-builder/mao-shi-bii.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/mao-shi-bii.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>猫使ビィ</title><link href="https://atu4403.github.io/voice-voices-builder/mao-shi-bii.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/mao-shi-bii.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -6988,7 +8053,7 @@
 &lt;a href="https://nekotukarb.wixsite.com/nekonohako/利用規約" target="_blank"&gt;https://nekotukarb.wixsite.com/nekonohako/利用規約&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>中国うさぎ</title><link href="https://atu4403.github.io/voice-voices-builder/zhong-guo-usagi.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/zhong-guo-usagi.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>中国うさぎ</title><link href="https://atu4403.github.io/voice-voices-builder/zhong-guo-usagi.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/zhong-guo-usagi.html</id><summary type="html">&lt;p&gt;
   モーフィング: SELF_ONLY
 &lt;/p&gt;
 
@@ -7409,7 +8474,7 @@
 &lt;a href="https://zunko.jp/con_ongen_kiyaku.html" target="_blank"&gt;https://zunko.jp/con_ongen_kiyaku.html&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>栗田まろん</title><link href="https://atu4403.github.io/voice-voices-builder/li-tian-maron.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/li-tian-maron.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>栗田まろん</title><link href="https://atu4403.github.io/voice-voices-builder/li-tian-maron.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/li-tian-maron.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -7543,7 +8608,7 @@
 &lt;a href="https://aivoice.jp/character/maron/" target="_blank"&gt;https://aivoice.jp/character/maron/&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>あいえるたん</title><link href="https://atu4403.github.io/voice-voices-builder/aierutan.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/aierutan.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>あいえるたん</title><link href="https://atu4403.github.io/voice-voices-builder/aierutan.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/aierutan.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -7677,7 +8742,7 @@
 &lt;a href="https://www.infiniteloop.co.jp/special/iltan/terms/" target="_blank"&gt;https://www.infiniteloop.co.jp/special/iltan/terms/&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>満別花丸</title><link href="https://atu4403.github.io/voice-voices-builder/man-bie-hua-wan.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/man-bie-hua-wan.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>満別花丸</title><link href="https://atu4403.github.io/voice-voices-builder/man-bie-hua-wan.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/man-bie-hua-wan.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -8194,7 +9259,7 @@
 &lt;a href="https://100hanamaru.wixsite.com/manbetsu-hanamaru/rule" target="_blank"&gt;https://100hanamaru.wixsite.com/manbetsu-hanamaru/rule&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>琴詠ニア</title><link href="https://atu4403.github.io/voice-voices-builder/qin-yong-nia.html" rel="alternate"></link><published>2023-10-14T08:10:00+09:00</published><updated>2023-10-14T08:10:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2023-10-14:/voice-voices-builder/qin-yong-nia.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry><entry><title>琴詠ニア</title><link href="https://atu4403.github.io/voice-voices-builder/qin-yong-nia.html" rel="alternate"></link><published>2024-02-01T17:28:00+09:00</published><updated>2024-02-01T17:28:00+09:00</updated><author><name>vanic</name></author><id>tag:atu4403.github.io,2024-02-01:/voice-voices-builder/qin-yong-nia.html</id><summary type="html">&lt;p&gt;
   モーフィング: ALL
 &lt;/p&gt;
 
@@ -8328,4 +9393,4 @@
 &lt;a href="https://commons.nicovideo.jp/works/nc315435" target="_blank"&gt;https://commons.nicovideo.jp/works/nc315435&lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;バージョン: 0.14.5&lt;/p&gt;</content><category term="speakers"></category></entry></feed>
+&lt;p&gt;バージョン: 0.15.0&lt;/p&gt;</content><category term="speakers"></category></entry></feed>
